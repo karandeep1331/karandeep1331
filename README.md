@@ -5,9 +5,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![Java](https://img.shields.io/badge/Java-red)
 
-💻 Computer Science Student
-🚀 Aspiring Software Engineer | Web Developer
-🌐 Passionate about Full-Stack Development
+* 💻 Computer Science Student
+* 🚀 Aspiring Software Engineer | Web Developer
+* 🌐 Passionate about Full-Stack Development
 
 
 ## 🧠 About Me
