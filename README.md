@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Karandeep Singh
 
-<!--
-**karandeep1331/karandeep1331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Java](https://img.shields.io/badge/Java-red)
 
-Here are some ideas to get you started:
+💻 Computer Science Student
+🚀 Aspiring Software Engineer | Web Developer
+🌐 Passionate about Full-Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🧠 About Me
+
+* 🎓 Studying Computer Science
+* 💡 Interested in Web Development & Software Engineering
+* ⚡ I enjoy building real-world projects
+* 📍 Based in the UK
+
+-
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+* HTML, CSS, JavaScript
+* Java
+* SQL
+
+### ⚙️ Technologies & Tools
+
+* Git & GitHub
+* Databases (MySQL / SQLite)
+* Frontend & Backend Development
+
+
+## 🚀 Projects
+ThisShoe
+living-a-healthiest-life-
+Reflections
+YouWatch
+
+### 🔹 Full Stack Web App
+
+* Authentication system (Login/Signup)
+* CRUD functionality
+* Database integration
+
+### 🔹 Frontend Website
+
+* Responsive design
+* Modern UI
+
+👉 More projects available in my repositories!
+
+
+## 📫 Contact Me
+
+* 📧 Email: [karandeepjalf123@Gmail.com](mailto:your-email@example.com)
+* 💼 LinkedIn: [Karandeep Singh](https://www.linkedin.com/in/karandeep-s-85087712b/)
+
+---
+
+⭐ *Always learning and building new things!*
