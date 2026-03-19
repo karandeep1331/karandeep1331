@@ -35,10 +35,10 @@
 
 
 ## 🚀 Projects
-ThisShoe
-living-a-healthiest-life-
-Reflections
-YouWatch
+* ThisShoe
+* living-a-healthiest-life-
+* Reflections
+* YouWatch
 
 ### 🔹 Full Stack Web App
 
@@ -50,8 +50,6 @@ YouWatch
 
 * Responsive design
 * Modern UI
-
-👉 More projects available in my repositories!
 
 
 ## 📫 Contact Me
