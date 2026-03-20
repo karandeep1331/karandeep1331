@@ -25,6 +25,9 @@
 * HTML, CSS, JavaScript
 * Java
 * SQL
+* Python
+* Django
+  
 
 ### ⚙️ Technologies & Tools
 
