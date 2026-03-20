@@ -15,9 +15,8 @@
 * 🎓 Studying Computer Science
 * 💡 Interested in Web Development & Software Engineering
 * ⚡ I enjoy building real-world projects
-* 📍 Based in the UK
+* 📍 London
 
--
 
 ## 🛠️ Tech Stack
 
