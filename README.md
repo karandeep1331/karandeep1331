@@ -40,6 +40,15 @@
 * Reflections
 * YouWatch
 
+### 🎮 Obstacle Course Game (Unreal Engine 5)
+
+* Built using Unreal Engine 5
+* Designed a 3D obstacle course with player movement and challenges
+* Implemented game mechanics like jumping, collision, and level progression
+* Focused on level design and user experience
+
+* 🎥 Demo: [Watch Gameplay](https://youtu.be/iutSGF2NkrM)
+  
 ### 🔹 Full Stack Web App
 
 * Authentication system (Login/Signup)
