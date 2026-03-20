@@ -1,11 +1,12 @@
 # Karandeep Singh Jalf
+*💻 Computer Science Student
 
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![Java](https://img.shields.io/badge/Java-red)
 
-* 💻 Computer Science Student
+
 * 🚀 Aspiring Software Engineer | Web Developer
 * 🌐 Passionate about Full-Stack Development
 
