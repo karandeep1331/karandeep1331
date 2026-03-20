@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Karandeep Singh
+# Karandeep Singh Jalf
 
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
