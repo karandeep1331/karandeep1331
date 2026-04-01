@@ -4,13 +4,11 @@
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![Java](https://img.shields.io/badge/Java-red)
-
 * 🚀 Aspiring Software Engineer | Web Developer
 * 🌐 Passionate about Full-Stack Development
 
 
 ## 🧠 About Me
-
 * 🎓 Studying Computer Science
 * 💡 Interested in Web Development & Software Engineering
 * ⚡ I enjoy building real-world projects
