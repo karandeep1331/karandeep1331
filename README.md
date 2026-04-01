@@ -5,7 +5,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![Java](https://img.shields.io/badge/Java-red)
 
-
 * 🚀 Aspiring Software Engineer | Web Developer
 * 🌐 Passionate about Full-Stack Development
 
