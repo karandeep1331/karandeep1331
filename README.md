@@ -64,7 +64,8 @@
 
 * 📧 Email: [karandeepjalf123@Gmail.com](mailto:your-email@example.com)
 * 💼 LinkedIn: [Karandeep Singh](https://www.linkedin.com/in/karandeep-s-85087712b/)
+* 📸 Instagram: [𝐾𝑎𝑟𝑎𝑛𝑑𝑒𝑒𝑝 𝑆𝑖𝑛𝑔ℎ](https://www.instagram.com/karandeep.sj/)
 
 ---
 
-⭐ *Always learning and building new things!*
+ *Always learning and building new things!*
