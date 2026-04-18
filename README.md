@@ -9,7 +9,7 @@
 
 
 ## 🧠 About Me
-* 🎓 Studying Computer Science
+* 🎓 Studying Computer Science, Currently Second Year
 * 💡 Interested in Web Development & Software Engineering
 * ⚡ I enjoy building real-world projects
 * 📍 London
@@ -24,6 +24,7 @@
 * SQL
 * Python
 * Django
+* Kotlin
   
 
 ### ⚙️ Technologies & Tools
@@ -38,6 +39,8 @@
 * living-a-healthiest-life-
 * Reflections
 * YouWatch
+* Mobile Application - Maths puzzle
+*  Mobile Application - meals from a local database and API
 
 ### 🎮 Obstacle Course Game (Unreal Engine 5)
 
@@ -58,6 +61,8 @@
 
 * Responsive design
 * Modern UI
+* Styling
+* Accessibility
 
 
 ## 📫 Contact Me
