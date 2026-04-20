@@ -32,6 +32,7 @@
 * Git & GitHub
 * Databases (MySQL / SQLite)
 * Frontend & Backend Development
+* Trello
 
 
 ## 🚀 Projects
