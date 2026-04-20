@@ -1,4 +1,4 @@
-# Karandeep Singh Jalf | Computer Science Student
+# Karandeep Singh | Computer Science Student
 
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
