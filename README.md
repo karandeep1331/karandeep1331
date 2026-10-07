@@ -9,7 +9,7 @@
 
 
 ## 🧠 About Me
-* 🎓 Studying Computer Science, Currently Second Year
+* 🎓 Studying Computer Science, Currently Final Year
 * 💡 Interested in Web Development & Software Engineering
 * ⚡ I enjoy building real-world projects
 * 📍 London
