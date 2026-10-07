@@ -25,6 +25,7 @@
 * Python
 * Django
 * Kotlin
+* SQL
   
 
 ### ⚙️ Technologies & Tools
